@@ -1,0 +1,9 @@
+{
+  "name": "notification-orm",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sqlite3",
+    "sqlite-orm"
+  ],
+  "builtin-baseline": "2ec0f1747d8186a5c9babe276e2ad57cd2b12d2a"
+}
